@@ -1,0 +1,18 @@
+.my-top {
+	background-color: #5ed190;
+	border-color: black;
+	border-style: double;
+	border-width: 7px;
+}
+body {
+	background-image: url("background.jpg");
+	background-size: 200px 200px;
+}
+
+.card {
+	background-color: #5ed190;
+	border-color: black;
+	border-style: double;
+	border-width: 7px;
+	margin-left: 40px;
+}
