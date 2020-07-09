@@ -21,7 +21,7 @@
   },
   "homepage": "",
   "dependencies": {
-    "inquirer": "^6.3.1"
+    "inquirer": "^6.5.2"
   },
   "devDependencies": {
     "jest": "^24.8.0"
