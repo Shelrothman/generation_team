@@ -3,6 +3,7 @@
 	border-color: black;
 	border-style: double;
 	border-width: 7px;
+	color: black;
 }
 body {
 	background-image: url("background.jpg");
@@ -15,4 +16,5 @@ body {
 	border-style: double;
 	border-width: 7px;
 	margin-left: 40px;
+	color: black;
 }
